@@ -2,7 +2,7 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/laiyenju/pen/dyYQLjY](https://codepen.io/laiyenju/pen/dyYQLjY).
 
-## 終於了解 css position 在幹嘛，以及讓人愛不釋手的 css flexbox
+## HW1: 終於了解 css position 在幹嘛，以及讓人愛不釋手的 css flexbox
 
 從 codeing 火球術之後換購了這門課程，帶著成為前端工程師的決心，直到昨天才開始看，完成第一份作業。
 雖然我對 HTML、CSS 有基本概念，也有架設個人部落格網站的經驗，但總是改用其他人開源的模板，或者偷懶套用 Bootstrap，對只用 CSS 設置 layout 完全沒信心，因為根本不了解 CSS position 的原理。
