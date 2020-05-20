@@ -19,4 +19,5 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/laiyenju/pen/dyYQ
   - `flex-wrap: [nowrap | wrap | wrap-reverse]` 選擇換行方式
   - `flex-flow: column wrap`
 
+以前看到有人在推特分享 flexbox 好用的心得，都無法理解好用的點在哪，但這次入坑後，真的就如 Huli 所說的回不去了。
 未來遇到會不斷增生的物件，可以使用 flexbox 模式安排，創造類似 RWD 的樣式。
