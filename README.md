@@ -4,7 +4,7 @@
 
 | Section  | Demo     | 心得紀錄  |
 | :------- | :------- | :------- |
-| 1. 基本 HTML/CSS 練習：以 Twitch 為例  | https://codepen.io/laiyenju/pen/dyYQLjY | |
+| 1. 基本 HTML/CSS 練習：以 Twitch 為例  | https://codepen.io/laiyenju/pen/dyYQLjY | [HW1: 終於了解 css position 在幹嘛，以及讓人愛不釋手的 css flexbox](https://github.com/laiyenju/lidemy-fe210-hw/tree/master/fe210-hw1) |
 | 2. 讓畫面變得更動態：神奇的 CSS transition |  |  |
 | 3. 寫 CSS 必備神器：CSS 預處理器 |  |  |
 | 4. 從假資料到真資料：Ajax 與 API 串接 |  |  |
